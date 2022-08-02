@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Biirr</string>
+    <string name="generic_error_message">Uupsi, something went wrong :(</string>
+    <string name="beer_fragment_title">Find the perfect biirr</string>
+    <string name="beer_detail_abv">ABV</string>
+    <string name="beer_detail_ibu">IBU</string>
+    <string name="beer_detail_abv_percentage">%s\%%</string>
+    <string name="beer_detail_smooth">Smooth</string>
+    <string name="beer_detail_bitter">Bitter</string>
+    <string name="beer_detail_hipsterPlus">Hipster Plus</string>
+</resources>
