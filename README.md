@@ -21,6 +21,6 @@ Finding the perfect biirr
     * Single activity architecture
     * MVVM for presentation layer
     * [Android Architecture components](https://developer.android.com/topic/libraries/architecture)
-    * [StateFlow] (https://developer.android.com/kotlin/flow/stateflow-and-sharedflow)
+    * [StateFlow](https://developer.android.com/kotlin/flow/stateflow-and-sharedflow)
     
 Note: In this project was used a free api which has request/rate limit.
